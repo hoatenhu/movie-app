@@ -40,7 +40,7 @@ This is a Movie app that allows users to view a list of popular movies, top rate
 
 ## 🚀 Online product
    You can test the complete version of the application I deployed to [Vercel](https://vercel.com/) via the link: https://elotus-movie-app.vercel.app/
-
+![elotus_movie_app](https://github.com/hoatenhu/movie-app/assets/84147184/e4c922cf-9af7-4bfa-b839-4b60a0958dfd)
 
 ## 🚩 License
 
